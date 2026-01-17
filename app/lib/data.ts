@@ -53,9 +53,9 @@ export const DATA = {
       description: "Designing Agentic AI systems using LangChain & LangGraph. Contributed to Fulfil SQL Agent with critique nodes and performed Demand Planning using SARIMAX on GCP data. Previously trained on advanced analytics and AI methodologies.",
     },
     {
-      company: "Outlier",
+      company: "Outlier AI",
       role: "LLM Trainer & Senior Reviewer",
-      period: "Apr 2025 – Jul 2025",
+      period: "Jan 2025 – Jul 2025",
       description: "Evaluated and enhanced LLM performance across Python, SQL, and ML/DL, ensuring technical accuracy and ethical AI standards.",
     },
     {
