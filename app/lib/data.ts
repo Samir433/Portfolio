@@ -49,14 +49,8 @@ export const DATA = {
     {
       company: "Rudder Analytics",
       role: "Associate Analyst (AI Engineer)",
-      period: "Sep 2025 – Present",
-      description: "Designing Agentic AI systems using LangChain & LangGraph. Contributed to Fulfil SQL Agent with critique nodes and performed Demand Planning using SARIMAX on GCP data.",
-    },
-    {
-        company: "Rudder Analytics",
-        role: "Analyst Trainee",
-        period: "Jan 2025 – Sep 2025",
-        description: "Trained on advanced analytics and AI methodologies.",
+      period: "Jan 2025 – Present",
+      description: "Designing Agentic AI systems using LangChain & LangGraph. Contributed to Fulfil SQL Agent with critique nodes and performed Demand Planning using SARIMAX on GCP data. Previously trained on advanced analytics and AI methodologies.",
     },
     {
       company: "Outlier",
@@ -75,18 +69,6 @@ export const DATA = {
       role: "AI/ML Intern",
       period: "Oct 2024 – Nov 2024",
       description: "Built a RAG application using OpenAI & AstraDB, deployed via Azure App Service.",
-    },
-    {
-      company: "Celestial Institute of Tech",
-      role: "Intern",
-      period: "Jan 2024 – Apr 2024",
-      description: "Worked on IoT data pipelines using NodeRED and MySQL. Implemented PySpark for data cleaning.",
-    },
-    {
-        company: "Unified Mentor",
-        role: "Data Science Intern",
-        period: "Sep 2023 – Dec 2023",
-        description: "Focused on data visualization and SQL analysis.",
     }
   ],
   projects: [
