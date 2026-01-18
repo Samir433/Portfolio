@@ -5,7 +5,7 @@ export const DATA = {
   role: "Data Scientist | Generative AI Engineer",
   tagline: "Building scalable AI solutions, LLM pipelines, and production-grade data systems.",
   summary: "Data Scientist and Generative AI Engineer with a strong foundation in building production-ready applications using LLMs, NLP, and Deep Learning. Experienced in deploying scalable solutions on Azure and optimizing ML pipelines. Passionate about solving complex problems through code, with a track record in competitive programming and hackathons.",
-  email: "samir.atpadkar@gmail.com", // Placeholder inferred or standard
+  email: "samatpadkar183@gmail.com", // Placeholder inferred or standard
   social: {
     github: "https://github.com/Samir433",
     linkedin: "https://www.linkedin.com/in/samir-atpadkar-199233235/",
